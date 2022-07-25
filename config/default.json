@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "jwtSecret": "nikita youtube mern",
+    "mongoUri": "mongodb+srv://dark:qwerty12345678@cluster0.l2wts.mongodb.net/?retryWrites=true&w=majority"
+}
